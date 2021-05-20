@@ -1,2 +1,2 @@
 # TestRpepositry
-Githubを扱う最初のテストコード
+授業用：SkeltonProject
